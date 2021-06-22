@@ -1,8 +1,8 @@
 class Link < Post
     def initialize
-    super
+        super
 
-    @url = ''
+        @url = ''
     end
 
     def read_from_console
